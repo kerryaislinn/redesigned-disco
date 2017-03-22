@@ -1,0 +1,23 @@
+body {
+    background-color: #CAC0D1;
+}
+
+legend {
+background-color: #efefef;
+border: 1px solid;
+border-radius: 20px;
+padding: 10px 20px;
+text-align: left;
+}
+
+p{
+background-color: #efefef;
+border: 1px solid;
+padding: 10px 20px;
+text-align: left;    
+}
+
+form{
+   background-color: white; 
+   padding: 10px 20px;
+}
