@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title> </title>
+      <link href="test.css" type="text/css" rel="stylesheet"/>
+    </head>
+  <body>
+      <h4>The principles of</h4>
+        <h1>Digital Painting in Photoshop</h1>
+  <div>
+    <h2>Document Size and Resolution</h2>
+    <p>When creating your new document in photoshop, there are several things to keep in mind. Making sure that your document will be able to be sent to print when it is completed is a must. Printing requires your image document to have a resolution of 300. It is always good practice to work with a larger canvas and if you need to size it down later on, you can do so. It is always possible to shrink the image size down later for print, but the reverse is not possible.</p>
+  </div>
+
+  <div>
+    <h2>Selection tools</h2>
+    <p>There are several different selection tools you can use. This may come in handy when you want to paint a specific area of your composition.
+
+      <ul>
+        <li>Rectangular and Elliptical Marquee</li>
+        <li>Regular and Polygonal Lasso tool</li>
+        <li>Magnetic Lasso tool</li>
+        <li>Magic Wand tool</li>
+        <li>Quick Selection Brush tool</li>
+        <li>Selection Brush tool</li>
+        <li>Magic Extractor</li>
+      </ul>
+    </p>
+  </div>
+
+  <div>
+    <h2>Layers and Effects</h2>
+    <p>Layers can be useful for many reasons. You can keep objects on separate layers which can help you make changes to your image at any point without causing too much issue. Some artists prefer to paint on multiple layers and merge them at a later time.</p>
+  </div>
+
+  <div>
+    <h2>Brush Strokes</h2>
+    <p> There are so many different possibilities for using brush strokes. You can change its size, opacity, flow, texture, color, and many other attributes. Creating your own unique brushes can help make your art stand out from the rest.</p>
+  </div>
+
+  <div>
+    <h2>Adding Textures</h2>
+    <p>Using different layer options it is possible to overlay a texture into areas of your piece. You can also select individual areas to overlay a texture as well. </p>
+  </div>
+  
+  </body>
+</html>
